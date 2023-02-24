@@ -1,4 +1,4 @@
-package Operacoes;
+package ExercicioOperadores.Operacoes;
 
 public class Operadores {
 
